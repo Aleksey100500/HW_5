@@ -43,11 +43,10 @@ void EveNum(int[] res)
     }
     Console.WriteLine(result);
 }
-int[] array = new int[4];                    // ЭТО
+int[] array = new int[4];                   
 
-FillArray(array);                            // И Это
-PrintArray(array);                          //  
-EveNum(array);                              //
+FillArray(array);                           
+PrintArray(array);                         
+EveNum(array);                             
 
-/*у меня не получилось всё внести в  Main, поэтому так, подскажите пожалуйста как это можно внести в Main, что б всё было красиво.
-Или напишите ссылку в комментарии пожалуйста!))*/
+
